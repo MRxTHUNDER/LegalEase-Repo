@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969792964779",
+    "project_id": "hackathon-gdsc",
+    "storage_bucket": "hackathon-gdsc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969792964779:android:929a7b8521a5aafaf48fee",
+        "android_client_info": {
+          "package_name": "com.example.legalease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOKqmzkOiEXhcpzBEtyeKlIDMZPt6kHmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
